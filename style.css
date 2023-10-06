@@ -1,0 +1,27 @@
+body {
+    background-image: url("./img/sparkle.gif"), url("./img/yellow-background.jpg");
+
+}
+
+img {
+    width: 400px;
+}
+
+main {
+    text-align: center;
+}
+
+h1,
+p {
+    font-family: 'Merienda', cursive;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 3rem;
+}
+
+p {
+    font-weight: 400;
+    font-size: 2rem;
+}
